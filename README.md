@@ -1,6 +1,6 @@
 # Olá, eu sou o Frederico Castro 👋
 
-### Senior Web Developer & Software Architect | 17+ Anos de Experiência
+### Senior Web Developer & Software Architect | 16+ Anos de Experiência
 Unindo a solidez da engenharia tradicional (PHP/SQL) com o futuro do desenvolvimento assistido por IA (**Vibe Coding**). Especialista em ecossistemas de alta complexidade e performance.
 
 ---
